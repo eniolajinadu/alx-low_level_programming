@@ -68,4 +68,4 @@ char **strtow(char *str)
 										matrix[k] = NULL;
 
 											return (matrix);
-}i
+}

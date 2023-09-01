@@ -44,4 +44,4 @@ unsigned int get_length(unsigned long int num)
   for (count = 0; num != 0; count++)
     num >>= 1;
   return (count);
-
+}
